@@ -1,17 +1,24 @@
 {
-  "name": "krishna-bellamkonda-website",
+  "name": "krishna-bellamkonda-portfolio",
+  "homepage":"https://krishnabellamkonda.github.io/krishna-bellamkonda-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "firebase": "^8.8.1",
+    "gh-pages": "^3.2.3",
+    "pure-react-carousel": "^1.27.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-responsive-carousel": "^3.2.20",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
