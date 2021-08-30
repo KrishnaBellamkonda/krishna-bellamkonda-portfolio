@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/krishna-bellamkonda-portfolio/static/css/main.bb0b0b08.chunk.css",
-    "main.js": "/krishna-bellamkonda-portfolio/static/js/main.22aab99c.chunk.js",
-    "main.js.map": "/krishna-bellamkonda-portfolio/static/js/main.22aab99c.chunk.js.map",
-    "runtime-main.js": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c93076c7.js",
-    "runtime-main.js.map": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c93076c7.js.map",
+    "main.css": "/krishna-bellamkonda-portfolio/static/css/main.6b05c311.chunk.css",
+    "main.js": "/krishna-bellamkonda-portfolio/static/js/main.a0bb5505.chunk.js",
+    "main.js.map": "/krishna-bellamkonda-portfolio/static/js/main.a0bb5505.chunk.js.map",
+    "runtime-main.js": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c97d9009.js",
+    "runtime-main.js.map": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c97d9009.js.map",
     "static/css/2.136a4374.chunk.css": "/krishna-bellamkonda-portfolio/static/css/2.136a4374.chunk.css",
-    "static/js/2.51529cc4.chunk.js": "/krishna-bellamkonda-portfolio/static/js/2.51529cc4.chunk.js",
-    "static/js/2.51529cc4.chunk.js.map": "/krishna-bellamkonda-portfolio/static/js/2.51529cc4.chunk.js.map",
-    "static/js/3.e5e6f8b8.chunk.js": "/krishna-bellamkonda-portfolio/static/js/3.e5e6f8b8.chunk.js",
-    "static/js/3.e5e6f8b8.chunk.js.map": "/krishna-bellamkonda-portfolio/static/js/3.e5e6f8b8.chunk.js.map",
+    "static/js/2.0d6f45c9.chunk.js": "/krishna-bellamkonda-portfolio/static/js/2.0d6f45c9.chunk.js",
+    "static/js/2.0d6f45c9.chunk.js.map": "/krishna-bellamkonda-portfolio/static/js/2.0d6f45c9.chunk.js.map",
+    "static/js/3.9a196477.chunk.js": "/krishna-bellamkonda-portfolio/static/js/3.9a196477.chunk.js",
+    "static/js/3.9a196477.chunk.js.map": "/krishna-bellamkonda-portfolio/static/js/3.9a196477.chunk.js.map",
     "index.html": "/krishna-bellamkonda-portfolio/index.html",
     "static/css/2.136a4374.chunk.css.map": "/krishna-bellamkonda-portfolio/static/css/2.136a4374.chunk.css.map",
-    "static/css/main.bb0b0b08.chunk.css.map": "/krishna-bellamkonda-portfolio/static/css/main.bb0b0b08.chunk.css.map",
-    "static/js/2.51529cc4.chunk.js.LICENSE.txt": "/krishna-bellamkonda-portfolio/static/js/2.51529cc4.chunk.js.LICENSE.txt",
+    "static/css/main.6b05c311.chunk.css.map": "/krishna-bellamkonda-portfolio/static/css/main.6b05c311.chunk.css.map",
+    "static/js/2.0d6f45c9.chunk.js.LICENSE.txt": "/krishna-bellamkonda-portfolio/static/js/2.0d6f45c9.chunk.js.LICENSE.txt",
     "static/media/EconoMetrics.795322ec.gif": "/krishna-bellamkonda-portfolio/static/media/EconoMetrics.795322ec.gif",
     "static/media/Passport_size.54998c96.JPG": "/krishna-bellamkonda-portfolio/static/media/Passport_size.54998c96.JPG",
     "static/media/TextSummarizer.4b127402.gif": "/krishna-bellamkonda-portfolio/static/media/TextSummarizer.4b127402.gif",
@@ -40,6 +40,7 @@
     "static/media/scrapy.a5c1ce2b.svg": "/krishna-bellamkonda-portfolio/static/media/scrapy.a5c1ce2b.svg",
     "static/media/seaborn.ab44f30a.svg": "/krishna-bellamkonda-portfolio/static/media/seaborn.ab44f30a.svg",
     "static/media/sklearn.e9b7ae04.svg": "/krishna-bellamkonda-portfolio/static/media/sklearn.e9b7ae04.svg",
+    "static/media/tat_2_resize.50853bbb.png": "/krishna-bellamkonda-portfolio/static/media/tat_2_resize.50853bbb.png",
     "static/media/tensorflow.b47133e8.svg": "/krishna-bellamkonda-portfolio/static/media/tensorflow.b47133e8.svg",
     "static/media/vscode.5a3beac9.svg": "/krishna-bellamkonda-portfolio/static/media/vscode.5a3beac9.svg",
     "static/media/websites_compilation.167e10d8.gif": "/krishna-bellamkonda-portfolio/static/media/websites_compilation.167e10d8.gif",
@@ -47,10 +48,10 @@
     "static/media/wisdom_of_crowds_simulation.6bedb863.gif": "/krishna-bellamkonda-portfolio/static/media/wisdom_of_crowds_simulation.6bedb863.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.c93076c7.js",
+    "static/js/runtime-main.c97d9009.js",
     "static/css/2.136a4374.chunk.css",
-    "static/js/2.51529cc4.chunk.js",
-    "static/css/main.bb0b0b08.chunk.css",
-    "static/js/main.22aab99c.chunk.js"
+    "static/js/2.0d6f45c9.chunk.js",
+    "static/css/main.6b05c311.chunk.css",
+    "static/js/main.a0bb5505.chunk.js"
   ]
 }
