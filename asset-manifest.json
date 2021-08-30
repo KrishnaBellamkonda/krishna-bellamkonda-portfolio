@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/krishna-bellamkonda-portfolio/static/css/main.6b05c311.chunk.css",
-    "main.js": "/krishna-bellamkonda-portfolio/static/js/main.924ecbbb.chunk.js",
-    "main.js.map": "/krishna-bellamkonda-portfolio/static/js/main.924ecbbb.chunk.js.map",
+    "main.js": "/krishna-bellamkonda-portfolio/static/js/main.93ab7b3f.chunk.js",
+    "main.js.map": "/krishna-bellamkonda-portfolio/static/js/main.93ab7b3f.chunk.js.map",
     "runtime-main.js": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c97d9009.js",
     "runtime-main.js.map": "/krishna-bellamkonda-portfolio/static/js/runtime-main.c97d9009.js.map",
     "static/css/2.136a4374.chunk.css": "/krishna-bellamkonda-portfolio/static/css/2.136a4374.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.6b05c311.chunk.css.map": "/krishna-bellamkonda-portfolio/static/css/main.6b05c311.chunk.css.map",
     "static/js/2.0d6f45c9.chunk.js.LICENSE.txt": "/krishna-bellamkonda-portfolio/static/js/2.0d6f45c9.chunk.js.LICENSE.txt",
     "static/media/EconoMetrics.795322ec.gif": "/krishna-bellamkonda-portfolio/static/media/EconoMetrics.795322ec.gif",
-    "static/media/Passport_size.54998c96.JPG": "/krishna-bellamkonda-portfolio/static/media/Passport_size.54998c96.JPG",
+    "static/media/ProfilePictureLinkedIn.09ab6abf.jpeg": "/krishna-bellamkonda-portfolio/static/media/ProfilePictureLinkedIn.09ab6abf.jpeg",
     "static/media/TextSummarizer.4b127402.gif": "/krishna-bellamkonda-portfolio/static/media/TextSummarizer.4b127402.gif",
     "static/media/birthday_application.644f9d31.gif": "/krishna-bellamkonda-portfolio/static/media/birthday_application.644f9d31.gif",
     "static/media/css.d9c2e229.svg": "/krishna-bellamkonda-portfolio/static/media/css.d9c2e229.svg",
@@ -52,6 +52,6 @@
     "static/css/2.136a4374.chunk.css",
     "static/js/2.0d6f45c9.chunk.js",
     "static/css/main.6b05c311.chunk.css",
-    "static/js/main.924ecbbb.chunk.js"
+    "static/js/main.93ab7b3f.chunk.js"
   ]
 }
